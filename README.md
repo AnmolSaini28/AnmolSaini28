@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Anmol Saini</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
@@ -15,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anmol saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol saini" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/anmol-saini-557a75249/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bnkb0a5sqrh2sdyzikjxdmg%3d%3d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anmol-saini-557a75249/overlay/about-this-profile/?lipi=urn%3ali%3apage%3ad_flagship3_profile_view_base%3bnkb0a5sqrh2sdyzikjxdmg%3d%3d" height="30" width="40" /></a>
 <a href="https://instagram.com/anmol.saini28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmol.saini28" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/anmol_saini" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anmol_saini" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anmol_saini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anmol_saini" height="30" width="40" /></a>
